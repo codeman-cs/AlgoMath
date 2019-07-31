@@ -1,18 +1,19 @@
-You can find my blogs on issues area. Here are some free tutorial about Algorithm or Math in Internet.
+You can find my personal blogs on issues area. https://github.com/codeman-cs/AlgoMath/issues
+
+Here are some free tutorial about Algorithm or Math in Internet.
 
 # Algorithm and Math
 
-Some good website to learn algo:
-
-
--  https://visualgo.net/en
-
-learn algorithm with animation。
+### DataStructure
 
 
 
 
-https://data.berkeley.edu/academics/undergraduate-programs/data-science-offerings/data-8/data-8x
+## Tools And Website
 
+### Algorithm with Animation
 
-a data Structure tutorial。 
+- https://visualgo.net/en
+
+  this website offer animation for most common data structure
+
